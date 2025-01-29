@@ -76,33 +76,33 @@ For other announcements, updates, and additional materials, you can follow [Ligh
 - [4.4 Defining Efficient Data Loaders](unit04-multilayer-nets/4.4-dataloaders)
 - [4.5 Multilayer Neural Networks for Regression](unit04-multilayer-nets/4.5-mlp-regression)
 - 4.6 Speeding Up Model Training Using GPUs
-- [Unit 4 exercises](./unit04-multilayer-nets/exercises)
-  - [Excercise 1: Changing the Number of Layers](./unit04-multilayer-nets/exercises/1_changing-layers)
-  - [Exercise 2: Implementing a Custom Dataset Class for Fashion MNIST](./unit04-multilayer-nets/exercises/2_fashion-mnist)
+- [Unit 4 exercises](unit04-multilayer-nets/exercises)
+  - [Excercise 1: Changing the Number of Layers](unit04-multilayer-nets/exercises/1_changing-layers)
+  - [Exercise 2: Implementing a Custom Dataset Class for Fashion MNIST](unit04-multilayer-nets/exercises/2_fashion-mnist)
 
 ### Unit 5. Organizing your PyTorch Code with Lightning [ [Link to videos](https://lightning.ai/pages/courses/deep-learning-fundamentals/overview-organizing-your-code-with-pytorch-lightning/) ] 
 
 - 5.1 Organizing Your Code with PyTorch Lightning
-- [5.2 Training a Multilayer Perceptron in PyTorch Lightning](./unit05-lightning/5.2-mlp-lightning)
-- [5.3 Computing Metrics Efficiently with TorchMetrics](./unit05-lightning/5.3-torchmetrics)
-- [5.4 Making Code Reproducible](./unit05-lightning/5.4-reproducibility)
-- [5.5 Organizing Your Data Loaders with Data Modules](./unit05-lightning/5.5-datamodules)
-- [5.6 The Benefits of Logging Your Model Training](./unit05-lightning/5.6-logging)
-- [5.7 Evaluating and Using Models on New Data](./unit05-lightning/5.7-evaluating)
+- [5.2 Training a Multilayer Perceptron in PyTorch Lightning](unit05-lightning/5.2-mlp-lightning)
+- [5.3 Computing Metrics Efficiently with TorchMetrics](unit05-lightning/5.3-torchmetrics)
+- [5.4 Making Code Reproducible](unit05-lightning/5.4-reproducibility)
+- [5.5 Organizing Your Data Loaders with Data Modules](unit05-lightning/5.5-datamodules)
+- [5.6 The Benefits of Logging Your Model Training](unit05-lightning/5.6-logging)
+- [5.7 Evaluating and Using Models on New Data](unit05-lightning/5.7-evaluating)
 - 5.8 Add functionality with callbacks
-- [Unit 5 exercises](./unit05-lightning/exercises)
+- [Unit 5 exercises](unit05-lightning/exercises)
 
 ### Unit 6. Essential Deep Learning Tips & Tricks [ [Link to videos](https://lightning.ai/pages/courses/deep-learning-fundamentals/unit-6-overview-essential-deep-learning-tips-tricks/) ] 
 
-- [6.1 Model Checkpointing and Early Stopping](./unit06-dl-tips/6.1-checkpointing)
-- [6.2 Learning Rates and Learning Rate Schedulers](./unit06-dl-tips/6.2-learning-rates)
+- [6.1 Model Checkpointing and Early Stopping](unit06-dl-tips/6.1-checkpointing)
+- [6.2 Learning Rates and Learning Rate Schedulers](unit06-dl-tips/6.2-learning-rates)
 - 6.3 Using More Advanced Optimization Algorithms
 - 6.4 Choosing Activation Functions
-- [6.5 Automating The Hyperparameter Tuning Process](./unit06-dl-tips/6.5-hparam-opt)
+- [6.5 Automating The Hyperparameter Tuning Process](unit06-dl-tips/6.5-hparam-opt)
 - 6.6 Improving Convergence with Batch Normalization
 - 6.7 Reducing Overfitting With Dropout
-- [6.8 Debugging Deep Neural Networks](./unit06-dl-tips/6.8-debugging)
-- [Unit 6 exercises](./unit06-dl-tips/exercises)
+- [6.8 Debugging Deep Neural Networks](unit06-dl-tips/6.8-debugging)
+- [Unit 6 exercises](unit06-dl-tips/exercises)
 
 
 ### Unit 7. Getting Started with Computer Vision [ [Link to videos](https://lightning.ai/pages/courses/deep-learning-fundamentals/unit-7-overview-getting-started-with-computer-vision/) ] 
@@ -114,7 +114,7 @@ For other announcements, updates, and additional materials, you can follow [Ligh
 - [7.5 Improving Predictions with Data Augmentation](./unit07-computer-vision/unit07-computer-vision/)
 - [7.6 Leveraging Pre-trained Models with Transfer Learning](./unit07-computer-vision/unit07-computer-vision/)
 - [7.7 Using Unlabeled Data with Self-Supervised](./unit07-computer-vision/unit07-computer-vision/)
-- [Unit 7 exercises](./unit07-computer-vision/exercises)
+- [Unit 7 exercises](unit07-computer-vision/exercises)
 
 
 
